@@ -1,4 +1,12 @@
-# Exercise for Evidence Based Practice session  - 20 November 2019
+# Analytic Exercise for Evidence Based Practice Training
+
+## How to run this training
+
+**Option 1:**  Give this data to individuals or small groups and ask them to compile a written report.  I would encourage people to post their report publicly and open it up for critique from the analytics community.
+
+**Option 2:**  Give this data to individuals or small groups.  After a certain time period allowed for analytics, have the group present their findings to a panel of three role-played executives, each with an ingoing set of beliefs about the situation.  Please <a href="mailto:keith.mcnulty@gmail.com">email me</a> for role play scripts if you choose this option.
+
+## The context
 
 You are working for a North American sales company that has offices in six locations.  Recently the CEO of this company
 has become interested in the performance of its managers.  She is interested in knowing what measurable factors influence
@@ -23,19 +31,17 @@ The data available includes the following fields for 571 managers:
 * `reduced_schedule`:  whether the manager works part time (Y) or full time (N)
 * `city`:  the current office of the manager.
 
-The data is available in an RData file (which ensures the data types are correct), or a csv file, where you may need to convert to the correct data types.  Choose whichever you prefer to work with.
+The data is available in an RData file for use in R (which ensures the data types are correct), or a csv file for use in any other analytics tool, where you may need to convert to the correct data types.  Choose whichever you prefer to work with.
 
 ## Your task
 
-Work on this data in groups of three.  Using whatever method you deem appropriate, try to determine:
+Using whatever method you deem appropriate, try to determine:
 
 1.  Which variables have an effect on manager performance?
 2.  For those variables which have an effect, how 'strong' is the effect?
 3.  What might be an explanation for such effects?
 4.  What are the limitations of your analysis?
 
-If you are unsure about an approach to take to the analysis, Keith will be available to provide advice and suggestions.  If you source the file `logistic_regression.R` this makes a function available to you which could be useful, and allow you to generate results pretty quickly.   
+The purpose of this exercise is to expose the typical challenges of communicating analytical results to a non-expert audience.  Be prepared to present and explain your results to an audience of mixed experience in analytics, whether via a written report or a verbal presentation/discussion.
 
-**This exercise is not about the technical approach**.  It is important not to spend too much time on this.  The purpose of this exercise is to expose the group to the typical challenges of communicating analytical results to a non-expert audience.  Be prepared to present and explain your results to an audience of mixed experience in analytics, and to facilitate a discussion around them.  Do not invest a lot of time in graphs or pretty displays - simple bullet points indicating your conclusions supported by statistics will suffice.
-
-Good luck!
+Enjoy!
