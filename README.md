@@ -44,4 +44,6 @@ Using whatever method you deem appropriate, try to determine:
 
 The purpose of this exercise is to expose the typical challenges of communicating analytical results to a non-expert audience.  Be prepared to present and explain your results to an audience of mixed experience in analytics, whether via a written report or a verbal presentation/discussion.
 
+**Do not try to use an automated analytics platform for this work**.  These platforms are very poor substitutes for strong methodology and nuanced interpretation.  At best they produce limited insight and at worst they produce results that are patently wrong.   Remember that this exercise has been created to help build your portfolio of analytics skills and your ability to make nuanced interpretations and communicate them to others.  Delegating this to a one size fits all analytics platform will not help. 
+
 Enjoy!
