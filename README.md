@@ -25,7 +25,7 @@ The data available includes the following fields for 571 managers:
 * `reduced_schedule`:  whether the manager works part time (Y) or full time (N)
 * `city`:  the current office of the manager.
 
-The data is available in an RData file for use in R (which ensures the data types are correct), or a csv file for use in any other analytics tool, where you may need to convert to the correct data types.  Choose whichever you prefer to work with.
+The data is available in an RData file for use in R, a pickle file for use in Python (which ensures the data types are correct), or a csv file for use in any other analytics tool, where you may need to convert to the correct data types.  Choose whichever you prefer to work with.
 
 ## Your task
 
