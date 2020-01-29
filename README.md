@@ -1,10 +1,4 @@
-# Analytic Exercise for Evidence Based Practice Training
-
-## How to run this training
-
-**Option 1:**  Give this data to individuals or small groups and ask them to compile a written report.  I would encourage people to post their report publicly and open it up for critique from the analytics community.
-
-**Option 2:**  Give this data to individuals or small groups.  After a certain time period allowed for analytics, have the group present their findings to a panel of three role-played executives, each with an ingoing set of beliefs about the situation.  Please <a href="mailto:keith.mcnulty@gmail.com">email me</a> for role play scripts if you choose this option.
+# Analytic Exercise for Evidence Based Practice Training - Instructions for Participants
 
 ## The context
 
